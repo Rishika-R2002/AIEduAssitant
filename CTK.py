@@ -185,7 +185,7 @@ def send_email(receiver, subject, message):
     #Sender information
     user = 'rishikarishi1402@gmail.com'
      # a token for gmail
-    app_password = 'lyllnxjhrcpmfuqn'
+    app_password = '' #Add the app password
     
 
     #Yagmail function to send mail
